@@ -1,3 +1,3 @@
-# Ori Hoch's fork of reveal.js
+# Reveal.JS Presentations by Ori Hoch
 
-Each branch of this repo is a different presentation.
+* [Django Oscar E-Commerce Framework](http://orihoch.github.io/reveal.js/django-oscar-demo.html)
